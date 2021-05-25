@@ -11,7 +11,7 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/cleedi_logo2.jpg
+  - image_path: /assets/images/cleedi_logo2.png
     alt: "about"
     title: "About CLEEDI"
     excerpt: "CLEEDI is an inter-disciplinary effort to solve Earth science problems"
