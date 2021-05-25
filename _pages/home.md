@@ -8,11 +8,10 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Register now"
       url: "/participate/"
-excerpt: >
-  Earth science inter-disciplinary data-driven workshop<br />
+
 feature_row:
 
-  - image_path: /assets/images/cleedi_logo.jpg
+  - image_path: /assets/images/cleedi_logo1.jpg
     alt: "about"
     title: "About CLEEDI"
     excerpt: "CLEEDI is an inter-disciplinary effort to solve Earth science problems"
