@@ -2,12 +2,12 @@
 layout: splash
 permalink: /
 hidden: true
-header:
+#header:
   #overlay_color: "#5e616c"
-  overlay_image: /assets/images/banner.png
-  actions:
-    - label: "<i class='fas fa-download'></i> Register now"
-      url: "/participate/"
+#  overlay_image: /assets/images/banner.png
+  #actions:
+  #  - label: "<i class='fas fa-download'></i> Register now"
+  #    url: "/participate/"
 
 feature_row:
 
