@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   #overlay_color: "#5e616c"
-  overlay_image: /assets/images/banner.png
+  image: /assets/images/banner.png
   #actions:
   #  - label: "<i class='fas fa-download'></i> Register now"
   #    url: "/participate/"
