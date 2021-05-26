@@ -29,7 +29,7 @@ Jean-Arthur Olive (ENS)
 
 Ursula Rabar (Frontiers)
 
-## Local cordination committee
+## Local coordination committee
 
 Nathalie Eychenne (Agglo Foix-Varilhes)
 
@@ -38,10 +38,3 @@ Mikaël Celma (Agglo Foix-Varilhes)
 Nobuaki Fuji (IPGP)
 
 Matthieu Lagard (Agglo Foix-Varilhes)
-
-
-
-
-
-
-
