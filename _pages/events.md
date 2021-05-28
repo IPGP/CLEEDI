@@ -13,7 +13,7 @@ permalink: /events/
 |07/2021| zoom meeting, cluster account opening|
 |08/2021| hackathon @ Foix|
 |10/2021| abstract proposal|
-|0X/2022| deadlin for special issue|
+|0X/2022| deadline for special issue|
 
 ## Tentative schedule of one-week hackathon (August, 2021)
 
