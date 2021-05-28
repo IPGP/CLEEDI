@@ -27,8 +27,6 @@ John Hernlund (Tokyo Tech)
 
 Jean-Arthur Olive (ENS)
 
-Ursula Rabar (Frontiers)
-
 ## Local coordination committee
 
 Nathalie Eychenne (Agglo Foix-Varilhes)
