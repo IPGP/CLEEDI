@@ -38,4 +38,7 @@ feature_row:
 
 {% include feature_row %}
 
-image: /assets/images/cleedi_logos_web.pdf
+feature_row_bottom:
+  - image_path: /assets/images/cleedi_logos_web.pdf
+
+{% include feature_row_bottom %}
