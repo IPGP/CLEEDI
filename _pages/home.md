@@ -39,6 +39,6 @@ feature_row:
 {% include feature_row %}
 
 feature_row_bottom:
-  - image_path: /assets/images/cleedi_logos_web.png
+  - image: /assets/images/cleedi_logos_web.png
 
 {% include feature_row_bottom %}
