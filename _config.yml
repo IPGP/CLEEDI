@@ -61,9 +61,6 @@ author:
   avatar : "/assets/images/bio-photo.png"
   bio    : "The CLEEDI workshop is an initiative aiming at solving Earth science problems through an inter-disciplinary data-driven collaborative approach"
   links:
-    - label: "Sponsors"
-      icon: "/assets/images/cleedi_logos_web.png"
-      url: "/sponsors/"
     - label: "Github"
       icon: "fas fa-fw fa-link"
       url: "https://ipgp.github.com/"
