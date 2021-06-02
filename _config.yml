@@ -72,8 +72,10 @@ author:
       url: "https://instagram.com/"
 
 footer:
-  image: /assets/images/cleedi_logos_web.png
   links:
+    - label: "Sponsors"
+      icon: "/assets/images/cleedi_logos_web.png"
+      url: "/sponsors/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/cleedi1/"
