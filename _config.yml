@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "CLEEDI team"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "The CLEEDI workshop is an initiative aiming at solving Earth science problems through an inter-disciplinary data-driven collaborative approach"
   links:
     - label: "Sponsors"
