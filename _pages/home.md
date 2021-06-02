@@ -37,8 +37,5 @@ feature_row:
 ---
 
 {% include feature_row %}
-
-foot:
-  - image: /assets/images/cleedi_logos_web.png
----
-{% include foot %}
+<img src="/assets/images/cleedi_logos_web.png" alt="" class="full">
+  
