@@ -40,3 +40,5 @@ feature_row:
 
 foot:
   - image: /assets/images/cleedi_logos_web.png
+---
+{% include foot %}
