@@ -72,6 +72,7 @@ author:
       url: "https://instagram.com/"
 
 footer:
+  overlay_image: "/assets/images/cleedi_logos_web.png"
   links:
     - label: "Sponsors"
       icon: "/assets/images/cleedi_logos_web.png"
