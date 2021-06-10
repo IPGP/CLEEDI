@@ -9,7 +9,7 @@ Please look at the calendar.
 
 ## Fee details
 
-400 euros for senior participants (200 for students).
+400 euros for senior participants (200 for postdocs and students).
 
 ## Cluster
 
