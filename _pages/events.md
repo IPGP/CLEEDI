@@ -20,7 +20,7 @@ permalink: /events/
 
 | date | morning | afternoon | evening | comments |
 |-------|--------|---------|---------| ---------|
-| 22 (Sun) | | arrival @ Foix (train, car) | icebreaker | possible shuttle from Toulouse|
+| 22 (Sun) | | arrival @ Foix (train, car) | 20h icebreaker | pick-up at Foix station/rooms available from 19h (baggage drop all day) |
 | 23 (Mon) | introduction | atelier| atelier | |
 | 24 (Tue) | keynotes | atelier | concert ? | |
 | 25 (Wed) | keynotes @ cave? | Spa @ Ax-les-thermes | refreshment ||
