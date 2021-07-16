@@ -25,7 +25,7 @@ permalink: /events/
 | 24 (Tue) | keynotes | atelier | public rehearsal, Foix plage | |
 | 25 (Wed) | keynotes, poster, panel @ les forges des Pyrènes | getaway | karaoke ||
 | 26 (Thu) | keynotes | atelier | resto on your own | |
-| 27 (Fri) | keynotes | wrapup | farewell ||
+| 27 (Fri) | keynotes | wrap up | farewell ||
 | 28 (Sat) | Outreach-concert @ Foix | Outreach-concert @ Mazères | | |
 
 
