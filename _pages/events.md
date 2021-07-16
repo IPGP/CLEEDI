@@ -22,7 +22,7 @@ permalink: /events/
 |-------|--------|---------|---------| ---------|
 | 22 (Sun) | | arrival @ Foix (train, car) | 20h icebreaker | pick-up at Foix station/rooms available from 19h (baggage drop all day) |
 | 23 (Mon) | 9h-10h Welcome @ Amphi, 10h-12h30 Ateliers @ CU 15-17 | atelier| atelier | |
-| 24 (Tue) | keynotes | atelier | public rehearsal, Foix plage | |
+| 24 (Tue) | keynotes | atelier | public orchestra rehearsal, others -> Foix plage | |
 | 25 (Wed) | keynotes, poster, panel @ les forges des Pyrènes | getaway | karaoke ||
 | 26 (Thu) | keynotes | atelier | resto on your own | |
 | 27 (Fri) | keynotes | wrap up | farewell ||
