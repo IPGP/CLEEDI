@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   #overlay_color: "#5e616c"
-  image: /assets/images/banner.png
+  image: /assets/images/cleedi_banniere_web_v06.png
   #actions:
   #  - label: "<i class='fas fa-download'></i> Register now"
   #    url: "/participate/"
