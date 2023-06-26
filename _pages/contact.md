@@ -11,21 +11,13 @@ cleedihackathon@gmail.com
 
 Nobuaki Fuji (IPGP): nobuaki@ipgp.fr
 
-Charles Le Losq (IPGP): lelosq@ipgp.fr
-
-Milena Marjanovic (IPGP): marjanovic@ipgp.fr
+Laetitia Le Pourhiet (Sorbonne Université): laetitia.le_pourhiet@sorbonne-universite.fr
 
 Jean-Arthur Olive (ENS): olive@geologie.ens.fr
 
 Cécile Prigent (IPGP): prigent@ipgp.fr
 
-## Frontiers special issue committee
-
-Nobuaki Fuji (IPGP)
-
-John Hernlund (Tokyo Tech)
-
-Jean-Arthur Olive (ENS)
+Charles Le Losq (IPGP): lelosq@ipgp.fr
 
 ## Local coordination committee
 
