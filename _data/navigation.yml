@@ -6,12 +6,14 @@ main:
     url: /location/
   - title: "Participate"
     url: /participate/
-  - title: "COVID"
-    url: /covid/
+  #- title: "COVID"
+  #  url: /covid/
   #- title: "Posts"
   #  url: /posts/
   - title: "Calendar"
     url: /events/
+  - title: "Past events"
+    url: /past/
   - title: "Contact"
     url: /contact/
   - title: "Sponsors"
