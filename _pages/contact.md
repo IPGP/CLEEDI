@@ -21,10 +21,7 @@ Charles Le Losq (IPGP): lelosq@ipgp.fr
 
 ## Local coordination committee
 
-Nathalie Eychenne (Agglo Foix-Varilhes)
-
 Mikaël Celma (Agglo Foix-Varilhes)
 
 Nobuaki Fuji (IPGP)
 
-Matthieu Lagard (Agglo Foix-Varilhes)
